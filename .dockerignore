@@ -1,0 +1,8 @@
+.git
+.next
+node_modules
+data
+.env*
+Railwatch-Source.zip
+*.tsbuildinfo
+__pycache__
